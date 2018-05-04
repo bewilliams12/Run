@@ -4,18 +4,18 @@ timeCreated: 1524664774
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
-    21300000: Blue Fixed_0
-    21300002: Blue Fixed_1
-    21300004: Blue Fixed_2
-    21300006: Blue Fixed_3
-    21300008: Blue Fixed_4
-    21300010: Blue Fixed_5
-    21300012: Blue Fixed_6
-    21300014: Blue Fixed_7
-    21300016: Blue Fixed_8
-    21300018: Blue Fixed_9
-    21300020: Blue Fixed_10
-    21300022: Blue Fixed_11
+    21300000: BlueR1
+    21300002: BlueR2
+    21300004: BlueR3
+    21300006: BlueR4
+    21300008: BlueR5
+    21300010: BlueJ1
+    21300012: BlueJ2
+    21300014: BlueJ3
+    21300016: BlueJ4
+    21300018: BlueJ5
+    21300020: BlueIdle1
+    21300022: BlueIdle2
   externalObjects: {}
   serializedVersion: 4
   mipmaps:
@@ -72,7 +72,7 @@ TextureImporter:
     maxTextureSize: 512
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -82,7 +82,7 @@ TextureImporter:
     maxTextureSize: 512
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -92,169 +92,169 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Blue Fixed_0
+      name: BlueR1
       rect:
         serializedVersion: 2
         x: 2
         y: 174
         width: 34
         height: 50
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.49999994, y: 0.006185913}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Blue Fixed_1
+      name: BlueR2
       rect:
         serializedVersion: 2
         x: 46
         y: 174
         width: 32
         height: 46
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.48652744, y: 0.0032776543}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Blue Fixed_2
+      name: BlueR3
       rect:
         serializedVersion: 2
         x: 92
         y: 174
         width: 28
         height: 47
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.4923014, y: -0.0044990703}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Blue Fixed_3
+      name: BlueR4
       rect:
         serializedVersion: 2
         x: 130
         y: 176
         width: 32
         height: 50
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5067363, y: -0.00009643555}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Blue Fixed_4
+      name: BlueR5
       rect:
         serializedVersion: 2
         x: 170
         y: 178
         width: 34
         height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5037801, y: -0.0007343292}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Blue Fixed_5
+      name: BlueJ1
       rect:
         serializedVersion: 2
         x: 6
         y: 118
         width: 28
         height: 50
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.49999994, y: 0.0042147827}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Blue Fixed_6
+      name: BlueJ2
       rect:
         serializedVersion: 2
         x: 52
         y: 118
         width: 24
         height: 50
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.50096035, y: 0.00013397216}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Blue Fixed_7
+      name: BlueJ3
       rect:
         serializedVersion: 2
         x: 92
         y: 118
         width: 26
         height: 50
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.50873387, y: 0.0049586487}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Blue Fixed_8
+      name: BlueJ4
       rect:
         serializedVersion: 2
         x: 132
         y: 118
         width: 32
         height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.49723673, y: 0.0007398923}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Blue Fixed_9
+      name: BlueJ5
       rect:
         serializedVersion: 2
         x: 174
         y: 118
         width: 32
         height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: -0.0029446285}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Blue Fixed_10
+      name: BlueIdle1
       rect:
         serializedVersion: 2
         x: 10
         y: 58
         width: 24
         height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0032557647}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Blue Fixed_11
+      name: BlueIdle2
       rect:
         serializedVersion: 2
         x: 52
         y: 58
         width: 24
         height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.49999985, y: 0.0032557647}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
